@@ -1,0 +1,10 @@
+id: AM139Q454454FLS1
+category: displays
+size: "1.39"
+panel: amoled
+resolution: 454x454
+interface: [qspi]
+driver: SH8601
+touch: null
+outline: 44.84 x 44.84 mm
+active_area: "Φ35.412 mm"
